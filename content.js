@@ -2,12 +2,12 @@
 window.wardrobeContent = {
   profile: {
     name: "刘映涵",
-    introduction: "华东师范大学图书情报硕士生，商业分析方向。有 B 端业务系统设计、电商风控分析与档案数字化项目经验。",
+    introduction: "华东师范大学图书情报硕士研究生，研究方向为商业分析。",
     email: "1241546079@qq.com",
     resume: "assets/刘映涵-简历.pdf"
   },
   workbench: {
-    positioning: "B 端产品设计 · 商业分析",
+    positioning: "商业分析",
     sampleEmail: "portfolio@example.com",
     sampleResume: "assets/resume-example.pdf",
     photoNotes: [

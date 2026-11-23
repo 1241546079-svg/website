@@ -1,4 +1,4 @@
-# 四面衣橱 · GitHub Pages 部署版
+# 个人作品集GitHub Pages 部署版
 
 双击 `index.html` 可以打开此版本。上传时，把本文件夹里面的文件和 `assets` 目录放到 GitHub 仓库根目录，让 `index.html` 和 `assets` 同级。请一并上传隐藏文件 `.nojekyll`。在 Mac 的 Finder 可按 `Command + Shift + .` 显示隐藏文件。
 
